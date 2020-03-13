@@ -43,6 +43,7 @@ Discord=%LocalAppData%\Discord\app-0.0.305\Discord.exe
 DogsOfWar=steam://rungameid/219700
 DragonCenter=%ProgramFiles(x86)%\MSI\Dragon Center\DragonCenter.exe
 DynamiteJack=%ProgramFiles(x86)%\Dynamite Jack\Dynamite Jack.exe
+Dashlane=%AppData%\Dashlane\Dashlane.exe
 ;[E]
 Eagle=D:\EAGLE 9.0.0\eagle.exe
 Edge=steam://rungameid/38740
@@ -56,6 +57,7 @@ Flower=steam://rungameid/966330
 FrostPunk=steam://rungameid/323190
 FtbLauncher=%UserProfile%\AppData\Roaming\ftblauncher\FTB_Launcher.exe
 Funktions=%ProgramData%\Microsoft\Windows\Start Menu\Programs\System Tools\Geheimer Dateiexplorer.lnk
+FARLoneSails=steam://rungameid/609320
 ;[G]
 GanttProject=%ProgramFiles(x86)%\GanttProject-2.8\ganttproject.exe
 GeforceExperience=%ProgramFiles%\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe
@@ -67,11 +69,15 @@ GodusWars=steam://rungameid/422420
 Gomoku=https://gomokuonline.com/
 GravNewton=steam://rungameid/549100
 GtaV=steam://rungameid/271590
+GreedFall=steam://rungameid/606880
+GitBash=%LocalAppData%\Programs\Git\git-bash.exe --cd-to-home
 ;[H]
 Hacknet=steam://rungameid/365450
 HumanFallFlat=steam://rungameid/477160
 ;[I]
 IntelExtremeTuningUtility=%Public%\Desktop\Intel(R) Extreme Tuning Utility.lnk
+IrfanView=%ProgramFiles%\IrfanView\i_view64.exe
+IrfanViewThumbnails=#IrfanView# /thumbs
 ;[J]
 JustCause1=steam://rungameid/6880
 JustCause2=steam://rungameid/8190
@@ -125,6 +131,7 @@ ParallelsCross=steam://rungameid/456980
 PolyBridge=steam://rungameid/367450
 PowerPoint=%ProgramFiles%\Microsoft Office\root\Office16\POWERPNT.EXE
 PUPG=steam://rungameid/578080
+PDF24=%ProgramFiles(x86)%\PDF24\pdf24-Launcher.exe
 ;[Q]
 QuakeChampions=steam://rungameid/611500
 ;[R]
@@ -140,8 +147,10 @@ MicrosoftSolitairCollection=D:\StartVerknuepfungen\Microsoft Solitaire Collectio
 Steam=D:\Program Files (x86)\Steam\Steam.exe
 Steep=steam://rungameid/460920
 Subnautica=steam://rungameid/264710
+Sumoman=steam://rungameid/552970
 System=
 SystemIcons=Shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
+StickyPassword=%ProgramFiles(x86)%\Sticky Password\stpass.exe
 ;[T]
 TansportFever2=steam://rungameid/1066780
 Teamspeak=C:\Users\%UserName%\AppData\Local\TeamSpeak 3 Client\ts3client_win64.exe
@@ -179,6 +188,8 @@ WormsWMD=steam://rungameid/327030
 WorldOfTanks=D:\Games\World_of_Tanks\WoTLauncher.exe
 WorldOfWarships=D:\Games\World_of_Warships\WoWSLauncher.exe
 Wreckfest=steam://rungameid/228380
+WolfQuest=steam://rungameid/431180
+WolfQuestAnniversaryEdition=steam://rungameid/926990
 ;[X]
 ;[Y]
 Ylands=steam://rungameid/298610
