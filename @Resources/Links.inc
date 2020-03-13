@@ -276,3 +276,18 @@ SysDesc14=
 SysDesc15=
 SysDesc16=
 SysDesc17=
+
+; ------------------------- GROUP-Links -------------------------------------------
+Group_Medien1=\lmms
+Group_Medien2=\wallpaperengine
+Group_Medien3=allmytube
+Group_Medien4=obsstudio
+Group_Medien5=mpchc
+Group_Medien6=skype
+Group_Medien7=vlc
+Group_Medien8=keepass2
+Group_Medien9=kies3
+Group_Medien10=audiacity
+Group_Medien11=teamspeak
+Group_Medien12=morphvoxpro
+Group_Medien13=msiappplayer
