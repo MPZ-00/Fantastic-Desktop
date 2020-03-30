@@ -1,5 +1,5 @@
 [Variables]
-
+Vers=1.6.0
 ; Custom Program Links:
 ;[Numbers]
 3Dmark=steam://rungameid/223850
@@ -34,6 +34,7 @@ CivilizationV=steam://rungameid/8930
 Cms18=steam://rungameid/645630
 CallOfDutyModernWarfare=%ProgramFiles(x86)%\Call of Duty Modern Warfare\Modern Warfare Launcher.exe
 Control=
+CoreTemp=%ProgramFiles%\Core Temp\Core Temp.exe
 ControllerCompanion=steam://rungameid/367670
 CssGridBuilder=%ProgramFiles%\CoffeeCup Software\CSS Grid Builder\CSS Grid Builder.exe
 ;[D]
