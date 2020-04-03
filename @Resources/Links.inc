@@ -116,7 +116,7 @@ NoMansSky=steam://rungameid/275850
 NotepadPP=%ProgramFiles%\Notepad++\notepad++.exe
 Noita=steam://rungameid/881100
 ;[O]
-OBSStudio=%ProgramFiles(x86)%\obs-studio\bin\64bit\obs64.exe
+OBSStudio=%ProgramFiles%\obs-studio\bin\64bit\obs64.exe
 Ordner1=D:\Downloads
 Ordner1_Titel=Downloads
 Ordner1_Info=Heruntergeladene Dateien, Programme
