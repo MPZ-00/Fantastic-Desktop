@@ -14,6 +14,11 @@ Font6=Arial
 Font7=Segoe UI
 Font8=Impact
 
+Global_DelayA=150
+Global_DelayB=500
+
+Group_MouseOver=1
+
 Drive1=C:
 Drive2=D:
 Drive3=F:
