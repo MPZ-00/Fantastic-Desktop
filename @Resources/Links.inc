@@ -159,6 +159,7 @@ SystemIcons=Shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
 StickyPassword=%ProgramFiles(x86)%\Sticky Password\stpass.exe
 ;[T]
 TansportFever2=steam://rungameid/1066780
+Teams=%LocalAppData%\Microsoft\Teams\Update.exe
 Teamspeak=C:\Users\%UserName%\AppData\Local\TeamSpeak 3 Client\ts3client_win64.exe
 TechnicLauncher=%AppData%\.technic\TechnicLauncher.exe
 TechSupportErrorUnknown=steam://rungameid/781480
