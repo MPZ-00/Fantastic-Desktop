@@ -25,6 +25,7 @@ BioShock=steam://rungameid/7670
 BioShock2=steam://rungameid/8850
 BorderLands2=steam://rungameid/49520
 Braid=steam://rungameid/26800
+BattleDotNet=%ProgramFiles(x86)%\Battle.net\Battle.net Launcher.exe
 ;[C]
 Carrion=
 CCleaner=%ProgramFiles%\CCleaner\CCleaner64.exe
