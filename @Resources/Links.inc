@@ -19,6 +19,7 @@ Atomega=steam://rungameid/619880
 Audiacity=%UserProfile%\Audacity\Audacity\audacity.exe
 ;[B]
 Badland=steam://rungameid/269670
+BabaIsYou=steam://rungameid/736260
 Beamng=steam://rungameid/284160
 Beispiel=taskmng.exe
 BioShock=steam://rungameid/7670
@@ -40,23 +41,25 @@ CoreTemp=%ProgramFiles%\Core Temp\Core Temp.exe
 ControllerCompanion=steam://rungameid/367670
 CssGridBuilder=%ProgramFiles%\CoffeeCup Software\CSS Grid Builder\CSS Grid Builder.exe
 ;[D]
+Dashlane=%AppData%\Dashlane\Dashlane.exe
+DeepL=%LocalAppData%\DeepL\DeepL.exe
 Deployment=steam://rungameid/755980
 DeusexHumanRevolution=steam://rungameid/28050
 DevcPP=%ProgramFiles(x86)%\Dev-Cpp\devcpp.exe
+Deiland=steam://rungameid/760620
 DigitalSimulator=%ProgramFiles(x86)%\DigitalSimulatorV5.57\DigitalSimulator.exe
 Discord=%LocalAppData%\Discord\app-0.0.305\Discord.exe
 DogsOfWar=steam://rungameid/219700
 DragonCenter=%ProgramFiles(x86)%\MSI\Dragon Center\DragonCenter.exe
-DynamiteJack=%ProgramFiles(x86)%\Dynamite Jack\Dynamite Jack.exe
-Dashlane=%AppData%\Dashlane\Dashlane.exe
-Deiland=steam://rungameid/760620
 Drawful2=steam://rungameid/442070
+DynamiteJack=%ProgramFiles(x86)%\Dynamite Jack\Dynamite Jack.exe
 ;[E]
 Eagle=D:\EAGLE 9.0.0\eagle.exe
 Edge=steam://rungameid/38740
 Evoland=steam://rungameid/1020470
 Exapunks=steam://rungameid/716490
 Exel=%ProgramFiles%\Microsoft Office\root\Office16\EXCEL.EXE
+EnvironmentalStationAlpha=steam://rungameid/350070
 ;[F]
 Firefox=%ProgramFiles%\Mozilla Firefox\firefox.exe
 FixWin10=C:\Windows_Repair_Toolbox\Downloads\FixWin10\FixWin 10.0.1.0\FixWin 10.exe
@@ -80,11 +83,13 @@ GreedFall=steam://rungameid/606880
 GitBash=%LocalAppData%\Programs\Git\git-bash.exe --cd-to-home
 ;[H]
 Hacknet=steam://rungameid/365450
+HardspaceShipbreaker=steam://rungameid/1161580
 HumanFallFlat=steam://rungameid/477160
 ;[I]
 IntelExtremeTuningUtility=%Public%\Desktop\Intel(R) Extreme Tuning Utility.lnk
 IrfanView=%ProgramFiles%\IrfanView\i_view64.exe
 IrfanViewThumbnails=#IrfanView# /thumbs
+Islanders=steam://rungameid/1046030
 ;[J]
 JustCause1=steam://rungameid/6880
 JustCause2=steam://rungameid/8190
@@ -142,6 +147,8 @@ PolyBridge=steam://rungameid/367450
 PowerPoint=%ProgramFiles%\Microsoft Office\root\Office16\POWERPNT.EXE
 PUPG=steam://rungameid/578080
 PDF24=%ProgramFiles(x86)%\PDF24\pdf24-Launcher.exe
+Portal=steam://rungameid/400
+Portal2=steam://rungameid/620
 ;[Q]
 QuakeChampions=steam://rungameid/611500
 ;[R]
@@ -172,6 +179,7 @@ TheCrew2=steam://rungameid/646910
 TheOrionSuns=steam://rungameid/787570
 TheSecretsOfTheForest=steam://rungameid/822770
 TheSims3=steam://rungameid/47890
+TheSwapper=steam://rungameid/231160
 TheTechnomancer=steam://rungameid/338390
 TheWitcher3=steam://rungameid/292030
 Thunderbird=%ProgramFiles%\Mozilla Thunderbird\thunderbird.exe
