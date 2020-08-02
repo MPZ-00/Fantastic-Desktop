@@ -112,3 +112,6 @@ NeonLightPers2=Images/Perspective/pr
 Circle=Lines
 
 MusicPlayer=WMP
+
+;System.ini
+CPU_HistogramEnabled=0

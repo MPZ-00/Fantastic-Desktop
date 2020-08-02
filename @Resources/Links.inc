@@ -140,6 +140,7 @@ Ordner4_Info=#CRLF#
 Origin=%ProgramFiles(x86)%\Origin\Origin.exe
 Osmos=steam://rungameid/29180
 OracleVMVirtualBox=%ProgramFiles%\Oracle\VirtualBox\VirtualBox.exe
+OriAndTheWillOfTheWisps=steam://rungameid/1057090
 ;[P]
 Paintnet=%ProgramFiles%\paint.net\PaintDotNet.exe
 ParallelsCross=steam://rungameid/456980
