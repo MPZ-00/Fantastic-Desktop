@@ -17,6 +17,7 @@ AssassinsCreed3Remastered=steam://rungameid/911400
 AStoryAboutMyUncle=steam://rungameid/278360
 Atomega=steam://rungameid/619880
 Audiacity=%UserProfile%\Audacity\Audacity\audacity.exe
+Anno1404=steam://rungameid/33250
 ;[B]
 Badland=steam://rungameid/269670
 BabaIsYou=steam://rungameid/736260
@@ -28,7 +29,7 @@ BorderLands2=steam://rungameid/49520
 Braid=steam://rungameid/26800
 BattleDotNet=%ProgramFiles(x86)%\Battle.net\Battle.net Launcher.exe
 ;[C]
-Carrion=
+Carrion=steam://rungameid/953490
 CCleaner=%ProgramFiles%\CCleaner\CCleaner64.exe
 CheatEngine=%ProgramFiles%\Cheat Engine 7.0\cheatengine-x86_64.exe
 Chrome=%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe
@@ -40,6 +41,7 @@ Control=
 CoreTemp=%ProgramFiles%\Core Temp\Core Temp.exe
 ControllerCompanion=steam://rungameid/367670
 CssGridBuilder=%ProgramFiles%\CoffeeCup Software\CSS Grid Builder\CSS Grid Builder.exe
+Collisions=steam://rungameid/390910
 ;[D]
 Dashlane=%AppData%\Dashlane\Dashlane.exe
 DeepL=%LocalAppData%\DeepL\DeepL.exe
@@ -118,6 +120,7 @@ MyPhoneExplorer=%ProgramFiles(x86)%\MyPhoneExplorer\MyPhoneExplorer.exe
 ;[N]
 NeedForSpeed=D:\Program Files (x86)\Origin Games\Need for Speed\NFS16.exe
 NeedForSpeedMostWanted=D:\Program Files (x86)\Origin Games\Need for Speed(TM) Most Wanted\NFS13.exe
+NeedForSpeedHeat=steam://rungameid/1222680
 NierAutomata=steam://rungameid/524220
 NightSkyHd=D:\Program Files (x86)\NightSkyHD\NightSkyHD_Win_1217\NightSkyHD.exe
 NoMansSky=steam://rungameid/275850
@@ -170,6 +173,7 @@ System=
 SystemIcons=Shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
 StickyPassword=%ProgramFiles(x86)%\Sticky Password\stpass.exe
 SuperbrothersSwordAndSworceryEP=steam://rungameid/204060
+ShellShockLive=steam://rungameid/326460
 ;[T]
 TansportFever2=steam://rungameid/1066780
 Teamspeak=C:\Users\%UserName%\AppData\Local\TeamSpeak 3 Client\ts3client_win64.exe
