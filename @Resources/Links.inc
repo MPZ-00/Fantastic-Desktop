@@ -169,6 +169,7 @@ Steam=D:\Program Files (x86)\Steam\Steam.exe
 Steep=steam://rungameid/460920
 Subnautica=steam://rungameid/264710
 Sumoman=steam://rungameid/552970
+Spotify=C:\Tools\Shortcuts\Spotify.lnk
 System=
 SystemIcons=Shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
 StickyPassword=%ProgramFiles(x86)%\Sticky Password\stpass.exe
@@ -176,7 +177,7 @@ SuperbrothersSwordAndSworceryEP=steam://rungameid/204060
 ShellShockLive=steam://rungameid/326460
 ;[T]
 TansportFever2=steam://rungameid/1066780
-Teamspeak=C:\Users\%UserName%\AppData\Local\TeamSpeak 3 Client\ts3client_win64.exe
+Teamspeak=%LocalAppData%\TeamSpeak 3 Client\ts3client_win64.exe
 TechnicLauncher=%AppData%\.technic\TechnicLauncher.exe
 TechSupportErrorUnknown=steam://rungameid/781480
 TerraTech=steam://rungameid/285920
@@ -303,7 +304,7 @@ SysDesc15=
 SysDesc16=
 SysDesc17=
 
-; ------------------------- GROUP-Links -------------------------------------------
+; ------------------------- GROUP-Links ------------------------------------------- (Testphase)
 Group_Medien1=\lmms
 Group_Medien2=\wallpaperengine
 Group_Medien3=allmytube
