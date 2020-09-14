@@ -51,6 +51,7 @@ DevcPP=%ProgramFiles(x86)%\Dev-Cpp\devcpp.exe
 Deiland=steam://rungameid/760620
 DigitalSimulator=%ProgramFiles(x86)%\DigitalSimulatorV5.57\DigitalSimulator.exe
 Discord=%LocalAppData%\Discord\app-0.0.305\Discord.exe
+DieSiedlerOnline=%Documents%\My Games\The Settlers Online\nw.exe
 DogsOfWar=steam://rungameid/219700
 DragonCenter=%ProgramFiles(x86)%\MSI\Dragon Center\DragonCenter.exe
 Drawful2=steam://rungameid/442070
@@ -86,6 +87,7 @@ GitBash=%LocalAppData%\Programs\Git\git-bash.exe --cd-to-home
 ;[H]
 Hacknet=steam://rungameid/365450
 HardspaceShipbreaker=steam://rungameid/1161580
+HideDotMeVPN=%ProgramFiles(x86)%\hide.me VPN\Hide.me.exe
 HumanFallFlat=steam://rungameid/477160
 ;[I]
 IntelExtremeTuningUtility=%Public%\Desktop\Intel(R) Extreme Tuning Utility.lnk
@@ -157,6 +159,7 @@ Portal2=steam://rungameid/620
 QuakeChampions=steam://rungameid/611500
 ;[R]
 RgbFusion20=%ProgramFiles(x86)%\GIGABYTE\RGBFusion\RGBFusion.exe
+RingsOfSaturn=steam://rungameid/846030
 RoccatSwarm=%ProgramFiles(x86)%\ROCCAT\ROCCAT Swarm\ROCCAT_Swarm.exe
 ;[S]
 ShadowOfTheTombraider=steam://rungameid/750920
