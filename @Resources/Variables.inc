@@ -17,6 +17,8 @@ Font8=Impact
 Global_DelayA=150
 Global_DelayB=500
 
+Global_Fade=1500
+
 Group_MouseOver=1
 
 Drive1=C:
