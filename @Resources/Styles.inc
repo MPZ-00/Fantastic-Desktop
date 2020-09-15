@@ -1,8 +1,8 @@
 [Variables]
 
-UniPrime=153,153,153
-UniSec=0,255,195
-Uni3D=255,255,255
+UniPrime=70,66,57
+UniSec=209,183,128
+Uni3D=227,229,224
 UniBorder=255,255,255
 UniReflec=255,255,255
-Color4=0,255,204
+Color4=111,91,62
