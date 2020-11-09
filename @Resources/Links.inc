@@ -201,6 +201,8 @@ Twitch=https://www.twitch.tv/
 Twitch_Acc1=https://www.twitch.tv/dascold
 ;[U]
 Uboat=steam://rungameid/494840
+UnityEditor=%ProgramFiles%\Unity\Hub\Editor\2019.4.10f1\Editor\Unity.exe
+UnityHub=%ProgramFiles%\Unity Hub\Unity Hub.exe
 Uplay=%ProgramFiles(x86)%\Ubisoft\Ubisoft Game Launcher\Uplay.exe
 ;[V]
 Vessel=%ProgramFiles(x86)%\Vessel\Vessel.exe
