@@ -43,6 +43,7 @@ CoreTemp=%ProgramFiles%\Core Temp\Core Temp.exe
 ControllerCompanion=steam://rungameid/367670
 CssGridBuilder=%ProgramFiles%\CoffeeCup Software\CSS Grid Builder\CSS Grid Builder.exe
 Collisions=steam://rungameid/390910
+Cyberpunk2077=steam://rungameid/1091500
 ;[D]
 Dashlane=%AppData%\Dashlane\Dashlane.exe
 DeepL=%LocalAppData%\DeepL\DeepL.exe
