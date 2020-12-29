@@ -32,7 +32,7 @@ BattleDotNet=%ProgramFiles(x86)%\Battle.net\Battle.net Launcher.exe
 ;[C]
 Carrion=steam://rungameid/953490
 CCleaner=%ProgramFiles%\CCleaner\CCleaner64.exe
-CheatEngine=%ProgramFiles%\Cheat Engine 7.0\cheatengine-x86_64.exe
+CheatEngine=%ProgramFiles%\Cheat Engine 7.1\Cheat Engine.exe
 Chrome=%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe
 CitiesSkylines=steam://rungameid/255710
 CivilizationV=steam://rungameid/8930
@@ -53,7 +53,7 @@ DevcPP=%ProgramFiles(x86)%\Dev-Cpp\devcpp.exe
 Deiland=steam://rungameid/760620
 DigitalSimulator=%ProgramFiles(x86)%\DigitalSimulatorV5.57\DigitalSimulator.exe
 Discord=C:\Tools\Scripts\RunNewestDiscord.bat
-DieSiedlerOnline=C:\Users\%UserName%\Documents\My Games\The Settlers Online\nw.exe
+DieSiedlerOnline=C:\Users\%UserName%\Documents\My Games\The Settlers Online\The Settlers Online.exe
 DogsOfWar=steam://rungameid/219700
 DragonCenter=%ProgramFiles(x86)%\MSI\Dragon Center\DragonCenter.exe
 Drawful2=steam://rungameid/442070
