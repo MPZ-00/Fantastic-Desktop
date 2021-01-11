@@ -176,6 +176,7 @@ Steep=steam://rungameid/460920
 Subnautica=steam://rungameid/264710
 Sumoman=steam://rungameid/552970
 Spotify=C:\Tools\Shortcuts\Spotify.lnk
+SpiderWars=steam://rungameid/454580
 System=
 SystemIcons=Shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
 StickyPassword=%ProgramFiles(x86)%\Sticky Password\stpass.exe

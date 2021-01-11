@@ -25,8 +25,8 @@ Drive1=C:
 Drive2=D:
 Drive3=F:
 Drive4=G:
-DownMax = 1048576
-UpMax =1048576
+DownMax=1048576
+UpMax=1048576
 
 Flare1=0
 Flare=1
