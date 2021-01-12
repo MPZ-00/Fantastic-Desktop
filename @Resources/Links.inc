@@ -28,6 +28,7 @@ BioShock=steam://rungameid/7670
 BioShock2=steam://rungameid/8850
 BorderLands2=steam://rungameid/49520
 Braid=steam://rungameid/26800
+Brave=%ProgramFiles%\BraveSoftware\Brave-Browser\Application\brave.exe
 BattleDotNet=%ProgramFiles(x86)%\Battle.net\Battle.net Launcher.exe
 ;[C]
 Carrion=steam://rungameid/953490
