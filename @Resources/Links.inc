@@ -129,6 +129,7 @@ MyPhoneExplorer=%ProgramFiles(x86)%\MyPhoneExplorer\MyPhoneExplorer.exe
 NeedForSpeed=D:\Program Files (x86)\Origin Games\Need for Speed\NFS16.exe
 NeedForSpeedMostWanted=D:\Program Files (x86)\Origin Games\Need for Speed(TM) Most Wanted\NFS13.exe
 NeedForSpeedHeat=steam://rungameid/1222680
+NetBeans=%ProgramFiles%\NetBeans-12.3\netbeans\bin\netbeans64.exe
 NierAutomata=steam://rungameid/524220
 NightSkyHd=D:\Program Files (x86)\NightSkyHD\NightSkyHD_Win_1217\NightSkyHD.exe
 NoMansSky=steam://rungameid/275850
