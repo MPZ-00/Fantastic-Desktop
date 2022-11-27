@@ -95,6 +95,7 @@ Hacknet=steam://rungameid/365450
 HardspaceShipbreaker=steam://rungameid/1161580
 HideDotMeVPN=%ProgramFiles(x86)%\hide.me VPN\Hide.me.exe
 HumanFallFlat=steam://rungameid/477160
+ForzaHorizon5=steam://rungameid/1551360
 ;[I]
 IntelExtremeTuningUtility=%Public%\Desktop\Intel(R) Extreme Tuning Utility.lnk
 IrfanView=%ProgramFiles%\IrfanView\i_view64.exe
